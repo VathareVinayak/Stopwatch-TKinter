@@ -2,7 +2,7 @@
 
 A sleek and modern **Stopwatch Timer App** built using Python's `tkinter` library. Featuring a neon-themed UI, stylish buttons, and smooth functionality for starting, stopping, and resetting your time – perfect for productivity, workouts, or coding sessions!
 
-![Stopwatch Banner](your-screenshot-path/banner.png)
+![Stopwatch Banner](./Images/startTimer.png)
 
 ---
 
@@ -29,7 +29,7 @@ A sleek and modern **Stopwatch Timer App** built using Python's `tkinter` librar
 
 | Start                                    | Stop                                   | Reset                                    |
 | ---------------------------------------- | -------------------------------------- | ---------------------------------------- |
-| ![Start](your-screenshot-path/start.png) | ![Stop](your-screenshot-path/stop.png) | ![Reset](your-screenshot-path/reset.png) |
+| ![Start](./Images/startTimer.png) | ![Stop](./Images/stopTimer.png) | ![Reset](./Images/reset_Timer.png) |
 
 ---
 
@@ -89,7 +89,7 @@ You can upload your screenshots to a service like [Imgur](https://imgur.com/) or
 
 ## 🧑‍💻 Author
 
-**\[Your Name]** – [GitHub Profile](https://github.com/your-username)
+**\[Vinayak Vathare]** – [GitHub Profile](https://github.com/VathareVinayak)
 Feel free to ⭐ the repo or suggest improvements!
 
 ---
